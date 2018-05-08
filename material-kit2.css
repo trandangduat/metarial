@@ -57,10 +57,6 @@ body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4 {
 .serif-font {
     font-family: "Roboto Slab", "Times New Roman", serif;
 }
-a.text-info:hover, a.text-info:focus {
-    color: #00a5bb;
-}
-
 a .material-icons {
     vertical-align: middle;
 }
